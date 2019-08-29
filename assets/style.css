@@ -1,0 +1,13 @@
+header {
+    background: whitesmoke;
+    margin-top: 10%;
+}
+
+h1 {
+    background: teal;
+    font-size: 32px;
+}
+
+body {
+    background: gray;
+}
