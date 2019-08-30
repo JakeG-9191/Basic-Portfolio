@@ -1,13 +1,94 @@
-header {
-    background: whitesmoke;
-    margin-top: 10%;
+body {
+    background: #cccccc;
+    margin: 0;
+}
+
+.title {
+    background: white;
+    position: relative;
+    padding-bottom: 5%;
+    border-bottom: 5px;
+}
+
+.rightB {
+    position: relative;
+    float: right;
+    right: 5%;
+    margin-top: 2%;
+    font-size: 22px;
+    word-spacing: 10px;
+    color: #777777;
+    text-decoration: none;
 }
 
 h1 {
-    background: teal;
+    position: absolute;
+    left: 15%;
+    text-align: center;
+    background: #4aaaa5;
+    color: #ffffff;
+    margin-block-end: 0;
+    margin-block-start: 0;
+    width: 15%;
+    line-height: 2.34em;
+}
+
+h2 {
+    text-align: left;
+    color: #4aaaa5;
+    padding: 2%;
+    margin-bottom: -1%;
+    margin-top: -0.5rem;
     font-size: 32px;
 }
 
-body {
+.photo {
+    position: absolute;
+    float: left;
+    padding: 1rem;
+    margin-left: 10px;
+}
+
+.about {
+    background: white;
+    width: 75%;
+    margin-left: 12%;
+    float: left;
+    margin-top: 2%;
+}
+
+p {
+    margin-left: 40%;
+    line-height: 2rem;
+    font-size: 16px;
+    float: right;
+    margin-top: 5px;
+    color: #777777;
+}
+
+hr {
+    width: 95%;
+}
+
+a, a:link, a:visited, a:focus, a:hover, a:active{
+    color:#777777;
+    text-decoration:none; 
+  }
+
+.footerG {
+    width: 100%;
+    background: #4aaaa5;
+    padding: 1%;
+    position: fixed;
+    bottom: 10px;
+}
+
+.footer {
+    width: 100%;
+    text-align: center;
     background: gray;
+    position: fixed;
+    font-size: 8px;
+    bottom: 0;
+    color: white;
 }
