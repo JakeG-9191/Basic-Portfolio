@@ -1,6 +1,8 @@
 body {
     background: #cccccc;
     margin: 0;
+    height: 1100px;
+    font-family: 'Arial', "Helvetica Neue", Helvetica, sans-serif;
 }
 
 .title {
@@ -8,6 +10,7 @@ body {
     position: relative;
     padding-bottom: 5%;
     border-bottom: 5px;
+    font-family: 'Georgia', Times, "Times New Roman", serif;
 }
 
 .rightB {
@@ -30,7 +33,8 @@ h1 {
     margin-block-end: 0;
     margin-block-start: 0;
     width: 15%;
-    line-height: 2.34em;
+    line-height: 1.17em;
+    font-family: 'Georgia', Times, "Times New Roman", serif;
 }
 
 h2 {
@@ -40,6 +44,7 @@ h2 {
     margin-bottom: -1%;
     margin-top: -0.5rem;
     font-size: 32px;
+    font-family: 'Georgia', Times, "Times New Roman", serif;
 }
 
 .photo {
@@ -55,6 +60,7 @@ h2 {
     margin-left: 12%;
     float: left;
     margin-top: 2%;
+    height: 650px;
 }
 
 p {
