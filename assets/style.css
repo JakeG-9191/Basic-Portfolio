@@ -98,3 +98,29 @@ a, a:link, a:visited, a:focus, a:hover, a:active{
     bottom: 0;
     color: white;
 }
+
+.contact-form {
+    text-align: left;
+    margin-left: 15%;
+    height: 600px;
+    background: white;
+}
+
+.contact {
+    text-align: left;
+    float: none;
+    margin-left: 3em;
+}
+
+.submit {
+    padding: 10px;
+}
+
+#button {
+    margin-left: 0;
+    float: none;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    width: 10%;
+    text-align: center
+}
